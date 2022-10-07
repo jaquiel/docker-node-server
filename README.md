@@ -10,7 +10,7 @@
 ### Running
 
 ```
- $  docker run -it -p 3000:3000 --name <NODESERVER_NAME> <NODESERVER_IMAGE_NAME> 
+ $  docker run -it -p 3000:3000 --name <NODESERVER_CONTAINER_NAME> <NODESERVER_IMAGE_NAME> 
 ```
 
 **OR** **(with --rm to remove the container after stop it)**
